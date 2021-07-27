@@ -56,9 +56,15 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 
 - Or pluses
 
+* [ ] Task
+
+#tag example
+
 ---
 
 ## Links
+
+[[Readme]] - wiki style links.
 
 [I'm an inline-style link](https://www.google.com/)
 
