@@ -1,6 +1,5 @@
 /* 1. Colours! Overriding both themes */
-.theme-dark,
-.theme-light {
+.theme-dark {
     --color-1: #FDF7CD;
     --color-2: #00ECD8;
     --color-3: #E92741;
@@ -26,6 +25,19 @@
     --scrollbar-active-thumb-bg: rgba(255, 255, 255, 0.2);
     --scrollbar-bg: rgba(255, 255, 255, 0.05);
     --scrollbar-thumb-bg: rgba(255, 255, 255, 0.1);
+}
+
+.theme-light {
+    --color-1: #020832;
+    --color-2: #0066ff;
+    --color-3: #020832;
+    --color-4: #c137bf;
+    --color-5: #020832;
+    --color-6: #be7022;
+    --color-7: #0066ff;
+
+    --text-accent: var(--color-3);
+    --text-on-accent: var(--color-1);
 }
 
 /* 3. Editor and preview */
