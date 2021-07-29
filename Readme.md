@@ -3,4 +3,3 @@
 A sharpest theme from @gleich ported to [obsidian](obsidian.md).
 
 ![Screenshot](images/example.png)
-
