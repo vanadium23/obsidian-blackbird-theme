@@ -40,6 +40,16 @@
     --text-on-accent: var(--color-1);
 }
 
+/* 2. UI */
+
+.titlebar-inner {
+  color: var(--color-normal);
+}
+
+.titlebar-button {
+  opacity: 1;
+}
+
 /* 3. Editor and preview */
 .cm-s-obsidian,
 .markdown-preview-view {
